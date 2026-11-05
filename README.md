@@ -1,3 +1,5 @@
+# Retail-Customer-Analytics
+
 Retail Customer Analytics Dashboard
 An interactive retail analytics dashboard for exploring customer
 behavior, revenue performance, customer segmentation, and churn.
